@@ -26,7 +26,3 @@ print(f"{name}  {lastname}")
 #zazas danaweri
 #print(saxeli_gvari + "\n" + favorite)
 
-
-
-
-
